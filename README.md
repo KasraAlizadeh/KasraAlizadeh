@@ -7,6 +7,6 @@
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="150em" width="400em" src="https://github-readme-stats.vercel.app/api?username=KasraAlizadeh&show_icons=true&hide_border=true&theme=calm" />
-  <img height="150em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasraAlizadeh&layout=compact&langs_count=10&hide_border=true&theme=calm"/>
+  <img height="150em" width="390em" src="https://github-readme-stats.vercel.app/api?username=KasraAlizadeh&show_icons=true&hide_border=true&theme=calm" />
+  <img height="150em" width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasraAlizadeh&layout=compact&langs_count=10&hide_border=true&theme=calm"/>
 </p>
